@@ -1,0 +1,15 @@
+Package: com.MacR4z.exampletweak
+Version: 0.0.2-2+debug
+Section: Tweaks
+Maintainer: MacR4z <lupelalo@dr.comcom>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/com.MacR4z.exampletweak_0.0.2-2+debug_iphoneos-arm.deb
+Size: 1702
+Installed-Size: 104
+MD5sum: 31301ab1bffd3af1d89979569cca8132
+Description: An example package for testing out our personal Cydia repository
+Name: MacR4z ExampleTweak
+Author: MacR4z <lupelalo@dr.comcom>
+Depiction: hhttps://github.MacR4z/repo.io/depictions/?p=com.mdausch.exampletweak
+
